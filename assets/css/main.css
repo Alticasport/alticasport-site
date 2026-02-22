@@ -3152,3 +3152,7 @@ input, select, textarea {
   transform: translateY(-5px);
   box-shadow: 0 15px 30px rgba(0,0,0,0.08);
 }
+#services article.special h3,
+#services article.special p {
+  text-align: center;
+}
