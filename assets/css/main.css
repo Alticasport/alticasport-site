@@ -3141,10 +3141,11 @@ input, select, textarea {
 
 #services article {
   padding: 2em;
-  background: #ffffff;
+  background: #f9f6f2;
   border-radius: 8px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.05);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center; /* centre titres et paragraphes */
 }
 
 #services article:hover {
