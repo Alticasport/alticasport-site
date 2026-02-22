@@ -3153,3 +3153,6 @@ input, select, textarea {
 
   text-align: center;
 }
+#services article.special {
+  text-align: center !important;
+}
