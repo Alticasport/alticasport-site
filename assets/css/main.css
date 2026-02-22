@@ -3149,10 +3149,7 @@ input, select, textarea {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: center !important;
 
-  text-align: center;
-}
-#services article.special {
   text-align: center !important;
 }
